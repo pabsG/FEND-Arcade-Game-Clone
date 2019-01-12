@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [How to Run](#How_to_Run)
-- [How to Play](#How_to_Play)
-- [Next Steps](#Next_Steps)
+- [How to Run](#How-to-Run)
+- [How to Play](#How-to-Play)
+- [Next Steps](#Next-Steps)
 
 ## How to Run
 
