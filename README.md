@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [How to Run](#How_to_Run)
-- [How to Play](#How_to Play)
+- [How to Play](#How_to_Play)
 - [Next Steps](#Next_Steps)
 
 ## How to Run
